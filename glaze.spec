@@ -4,12 +4,12 @@
 
 Summary:	Extremely fast JSON and interface library for modern C++
 Name:		glaze
-Version:	4.3.1
+Version:	5.2.0
 Release:	1
 License:	MIT
 Group:		Development/Libraries
 Source0:	https://github.com/stephenberry/glaze/archive/v%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	629e89b641b4adb9439a17fba5b8cdfc
+# Source0-md5:	50f0636337a812a71cc18b9058ad83dd
 URL:		https://github.com/stephenberry/glaze
 BuildRequires:	cmake >= 3.21
 BuildRequires:	libstdc++-devel >= 6:11
